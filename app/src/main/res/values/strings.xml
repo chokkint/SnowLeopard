@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SnowLeopard</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">客户信息</string>
+    <string name="title_notifications">我的</string>
+    <string name="title_timing">销售时机</string>
+
+    <string name="txt_name">风清扬</string>
+    <string name="todo">TODO</string>
+</resources>
